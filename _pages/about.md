@@ -17,9 +17,9 @@ My research interests include Machine Learning, Computer Vision, and Remote-sens
 Email: meijie0507 AT gmail.com
 
 # Education
-2019 -- , Ph.D in Computer Science, Nankai University.
-2016 -- 2019, M.Sc. in Geographic Information System, Beijing Normal University.
-2012 -- 2016, B.Sc. in Geographic Information System, Beijing Normal University.
+* 2019 -- , Ph.D in Computer Science, Nankai University.
+* 2016 -- 2019, M.Sc. in Geographic Information System, Beijing Normal University.
+* 2012 -- 2016, B.Sc. in Geographic Information System, Beijing Normal University.
 
 # Major Awards & Honors
 
