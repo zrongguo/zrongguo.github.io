@@ -25,6 +25,11 @@ Email: meijie0507 AT gmail.com
 
 <p align="justify">
 * 2019: Zhou Tingru Scholarship; "Outstanding Graduate" in Beijing Normal University.
+</p>
+<p align="justify">
 * 2018: National Scholarship; Gold Medal of the 46th International Exhibition of Inventions of Geneva.
+</p>
+<p align="justify">
 * 2017: First-class Graduate Scholarship of Beijing Normal University; First prize in IBM Systems Power HPDA GPU Programming Marathon.
 </p>
+
