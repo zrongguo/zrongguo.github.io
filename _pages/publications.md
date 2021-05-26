@@ -1,9 +1,10 @@
 ---
 layout: archive
-title: "Publications (\* indicates joint first authors)"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+(\* indicates joint first authors)
 ## 2021
 * <b>SANet: A Slice-Aware Network for Pulmonary Nodule Detection</b>. <br>
 <b>Jie Mei</b>, Ming-Ming Cheng, Gang Xu, Lan-Ruo Wan, Huan Zhang. <br>
