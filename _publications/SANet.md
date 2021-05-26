@@ -1,13 +1,26 @@
 ---
-title: "Autoregressive Score Matching"
+title: "SANet: A Slice-Aware Network for Pulmonary Nodule Detection"
 collection: publications
 permalink: /publications/SANet
-venue: "The 34th Conference on Neural Information Processing Systems (NeurIPS 2020)"
-date: 2020-9-30
-citation: 'Chenlin Meng, <b>Lantao Yu</b>, Yang Song, Jiaming Song, and Stefano Ermon. <i>The 34th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2020</b>.'
+venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)"
+date: 2021
 ---
 
-[[PDF]](https://arxiv.org/pdf/2010.12810.pdf)
+[[PDF]](https://jiemei.xyz/files/2021_TPAMI_SANet/2021_TPAMI_SANet.pdf)
 
 ## Abstract
-Autoregressive models use the chain rule to define a joint probability distribution as a product of conditionals. These conditionals need to be normalized, imposing constraints on the functional families that can be used. To increase flexibility, we propose autoregressive conditional score models (AR-CSM) and parameterize the joint distribution in terms of the derivatives of univariate log-conditionals (scores), which need not be normalized. To train AR-CSM, we introduce a new divergence between distributions named Composite Score Matching (CSM). For AR-CSM models, this divergence between data and model distributions can be computed and optimized efficiently, requiring no expensive sampling or adversarial training. Compared to previous score matching algorithms, our method is more scalable to high dimensional data and more stable to optimize. We show with extensive experimental results that it can be applied to density estimation on synthetic data, image generation, image denoising, and training latent variable models with implicit encoders.
+Lung cancer is the most common cause of cancer death worldwide. 
+A timely diagnosis of the pulmonary nodules makes it possible to detect lung cancer in the early stage, 
+and thoracic computed tomography (CT) provides a convenient way to diagnose nodules. 
+However, it is hard even for experienced doctors to distinguish them from the massive CT slices. 
+The currently existing nodule datasets are limited in both scale and category, 
+which is insufficient and greatly restricts its applications. 
+In this paper, we collect the largest and most diverse dataset named PN9 for pulmonary nodule detection by far. 
+Specifically, it contains 8,798 CT scans and 40,439 annotated nodules from 9 common classes. 
+We further propose a slice-aware network (SANet) for pulmonary nodule detection. 
+A slice grouped non-local (SGNL) module is developed to capture long-range dependencies among any positions and any channels of one slice group in the feature map. 
+And we introduce a 3D region proposal network to generate pulmonary nodule candidates with high sensitivity, while this detection stage usually comes with many false positives. 
+Subsequently, a false positive reduction module (FPR) is proposed by using the multi-scale feature maps. 
+To verify the performance of SANet and the significance of PN9, 
+we perform extensive experiments compared with several state-of-the-art 2D CNN-based and 3D CNN-based detection methods. 
+Promising evaluation results on PN9 prove the effectiveness of our proposed SANet.
