@@ -21,7 +21,7 @@ Yu-Huan Wu, Shang-Hua Gao, <b>Jie Mei</b>, Jun Xu, Deng-Ping Fan, Rong-Guo Zhang
 
 ## 2020
 * <b>SLCRF: Subspace Learning With Conditional Random Field for Hyperspectral Image Classification</b>. <br>
-Yun Cao\*, Jie Mei\*, Yue-Bin Wang, Li-Qiang Zhang, Jun-Huan Peng, Bing Zhang, Li-Hua Li, Yi-Bo Zheng. <br>
+Yun Cao\*, <b>Jie Mei</b>\*, Yue-Bin Wang, Li-Qiang Zhang, Jun-Huan Peng, Bing Zhang, Li-Hua Li, Yi-Bo Zheng. <br>
 <i>IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)</i>, 2020. <br>
 [[PDF]](https://jiemei.xyz/files/2021_TGRS_SLCRF/2021_TGRS_SLCRF.pdf)
 
@@ -30,3 +30,31 @@ Xin-Gang Li, Yue-Bin Wang, Li-Qiang Zhang, Su-Hong Liu, <b>Jie Mei</b>, Yang Li.
 <i>IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)</i>, 2020. <br>
 [[PDF]](https://jiemei.xyz/files/2020_TGRS_Road/2020_TGRS_Road.pdf)
 [[Code]](https://github.com/lixingang/road_detection)
+
+## 2019
+* <b>PSASL: Pixel-Level and Superpixel-Level Aware Subspace Learning for Hyperspectral Image Classification</b>. <br>
+<b>Jie Mei</b>, Yuebin Wang, Liqiang Zhang, Bing Zhang, Suhong Liu, Panpan Zhu, Yingchao Ren. <br>
+<i>IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)</i>, 2019. <br>
+[[PDF]](https://jiemei.xyz/files/2019_TGRS_PSASL/2019_TGRS_PSASL.pdf)
+
+## 2018
+* <b>Self-Supervised Feature Learning With CRF Embedding for Hyperspectral Image Classification</b>. <br>
+Yue-Bin Wang\*, <b>Jie Mei</b>\*, Li-Qiang Zhang, Bing Zhang, Pan-Pan Zhu, Yang Li, Xin-Gang Li. <br>
+<i>IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)</i>, 2018. <br>
+[[PDF]](https://jiemei.xyz/files/2018_TGRS_HSINet/2018_TGRS_HSINet.pdf)
+
+* <b>Self-Supervised Low-Rank Representation (SSLRR) for Hyperspectral Image Classification</b>. <br>
+Yue-Bin Wang\*, <b>Jie Mei</b>\*, Li-Qiang Zhang, Bing Zhang, An-Jian Li, Yi-Bo Zheng, Pan-Pan Zhu. <br>
+<i>IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)</i>, 2018. <br>
+[[PDF]](https://jiemei.xyz/files/2018_TGRS_SSLRR/2018_TGRS_SSLRR.pdf)
+
+* <b>Joint Margin, Cograph, and Label Constraints for Semisupervised Scene Parsing From Point Clouds</b>. <br>
+<b>Jie Mei</b>, Li-Qiang Zhang, Yue-Bin Wang, Zi-Dong Zhu, Hui-Qian Ding. <br>
+<i>IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)</i>, 2018. <br>
+[[PDF]](https://jiemei.xyz/files/2018_TGRS_Joint/2018_TGRS_Joint.pdf)
+
+## 2017
+* <b>3D Tree Modeling from Incomplete Point Clouds via Optimization and L1-MST</b>. <br>
+<b>Jie Mei</b>, Li-Qiang Zhang, Shi-Hao Wu, Zhen Wang, Liang Zhang. <br>
+<i>International Journal of Geographical Information Science (**IJGIS**)</i>, 2017. <br>
+[[PDF]](https://jiemei.xyz/files/2017_IJGIS_Tree/2017_IJGIS_Tree.pdf)
