@@ -9,5 +9,5 @@ author_profile: true
 <b>Jie Mei</b>, Ming-Ming Cheng, Gang Xu, Lan-Ruo Wan, and Huan Zhang. <br>
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)</i>, 2021. <br>
 [[PDF]](https://jiemei.xyz/files/2021_TPAMI_SANet/2021_TPAMI_SANet.pdf)
-[[Project]](https://jiemei.xyz/publications/2021_TPAMI_SANet)
+[[Project]](https://jiemei.xyz/publications/SANet)
 [[Code]]
