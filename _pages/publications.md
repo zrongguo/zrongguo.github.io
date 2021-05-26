@@ -18,3 +18,15 @@ Yu-Huan Wu, Shang-Hua Gao, <b>Jie Mei</b>, Jun Xu, Deng-Ping Fan, Rong-Guo Zhang
 <i>IEEE Transactions on Image Processing (**TIP**)</i>, 2021. <br>
 [[PDF]](https://jiemei.xyz/files/2021_TIP_JCS/2021_TIP_JCS.pdf)
 [[Code]](https://github.com/yuhuan-wu/JCS)
+
+## 2020
+* <b>SLCRF: Subspace Learning With Conditional Random Field for Hyperspectral Image Classification</b>. <br>
+Yun Cao\*, Jie Mei\*, Yue-Bin Wang, Li-Qiang Zhang, Jun-Huan Peng, Bing Zhang, Li-Hua Li, Yi-Bo Zheng. <br>
+<i>IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)</i>, 2020. <br>
+[[PDF]](https://jiemei.xyz/files/2021_TGRS_SLCRF/2021_TGRS_SLCRF.pdf)
+
+* <b>Topology-Enhanced Urban Road Extraction via a Geographic Feature-Enhanced Network</b>. <br>
+Xin-Gang Li, Yue-Bin Wang, Li-Qiang Zhang, Su-Hong Liu, <b>Jie Mei</b>, Yang Li. <br>
+<i>IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)</i>, 2020. <br>
+[[PDF]](https://jiemei.xyz/files/2020_TGRS_Road/2020_TGRS_Road.pdf)
+[[Code]](https://github.com/lixingang/road_detection)
