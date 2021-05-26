@@ -3,7 +3,7 @@ title: "SANet: A Slice-Aware Network for Pulmonary Nodule Detection"
 collection: publications
 permalink: /publications/SANet
 venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)"
-date: 2021
+date: 2021-03-09
 ---
 
 [[PDF]](https://jiemei.xyz/files/2021_TPAMI_SANet/2021_TPAMI_SANet.pdf)
