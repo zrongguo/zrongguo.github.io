@@ -29,4 +29,4 @@ Email: meijie0507 AT gmail.com
 * 2017: First-class Graduate Scholarship of Beijing Normal University; First prize in IBM Systems Power HPDA GPU Programming Marathon.
 {: style="text-align: justify;"}
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=300&d=iEfoJ2a3aSRrfkkD55uM2xvtuLrHssd-k4OtzGp8_j8"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=200&d=iEfoJ2a3aSRrfkkD55uM2xvtuLrHssd-k4OtzGp8_j8"></script>
