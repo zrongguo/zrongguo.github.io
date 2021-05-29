@@ -12,6 +12,7 @@ author_profile: true
 [[PDF]](https://jiemei.xyz/files/2021_TPAMI_SANet/2021_TPAMI_SANet.pdf)
 [[Project]](https://jiemei.xyz/publications/SANet)
 [[Code]](https://github.com/mj129/SANet)
+[[Dataset]](https://github.com/mj129/SANet)
 
 * <b>JCS: An Explainable COVID-19 Diagnosis System by Joint Classification and Segmentation</b>. <br>
 Yu-Huan Wu, Shang-Hua Gao, <b>Jie Mei</b>, Jun Xu, Deng-Ping Fan, Rong-Guo Zhang, Ming-Ming Cheng. <br>
