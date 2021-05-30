@@ -60,7 +60,7 @@ a total of 40,439 annotated nodules.
   Figure 3. Statistics of the proposed PN9 dataset. 
   (a) Slice thickness distribution of CT scans. 
   (b) Distribution of nodule count in one patient. (c) Percentage of CT manufacturer. <br>
-   <img src="https://jiemei.xyz/files/2021_TPAMI_SANet/SANet-class.png?raw=true" alt="Photo" style="width: 450px;"/> <br>
+   <img src="https://jiemei.xyz/files/2021_TPAMI_SANet/SANet-class.png?raw=true" alt="Photo" width = '500px' style="width: 450px;"/> <br>
    Figure 4. Statistics of class in PN9. (a)Taxonomy of the PN9 dataset. 
    It contains four super-classes and nine sub-classes. 
    The percentage represents the proportion of a certain class of nodules to all nodules. 
