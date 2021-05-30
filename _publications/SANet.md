@@ -60,7 +60,7 @@ a total of 40,439 annotated nodules.
   Figure 3. Statistics of the proposed PN9 dataset. 
   (a) Slice thickness distribution of CT scans. 
   (b) Distribution of nodule count in one patient. (c) Percentage of CT manufacturer. <br>
-   <img src="https://jiemei.xyz/files/2021_TPAMI_SANet/SANet-class.png?raw=true" alt="Photo" width = '1000px' style="width: 450px;"/> <br>
+   <img src="https://jiemei.xyz/files/2021_TPAMI_SANet/SANet-class.png?raw=true" alt="Photo" style="max-width:680px"/> <br>
    Figure 4. Statistics of class in PN9. (a)Taxonomy of the PN9 dataset. 
    It contains four super-classes and nine sub-classes. 
    The percentage represents the proportion of a certain class of nodules to all nodules. 
@@ -73,21 +73,18 @@ in Fig. 3 (c). PN9 includes 2,652 scans from ten different GE
 Medical Systems scanner models, 2,305 scans from eleven different Siemens scanner models, 2,224 scans from three different
 Toshiba scanner models, 800 scans from two different United
 Imaging Healthcare (UIH) scanner models, and 817 scans from
-six different Philips scanner models.
-
+six different Philips scanner models.<br>
 <b>Slice Thickness.<b> Since the images of thick slice are not
 optimal for CAD analysis, we mainly collect the CT
 scans with thin-slice. As illustrated in Fig. 3 (a), slice thickness
 ranges from 0.4 mm to 2.5 mm, and most are located at 0.7, 0.8,
 1.0, and 1.25 mm. Besides, the pixel spacing ranges from 0.310
-mm to 1.091 mm, with a mean of 0.706 mm.
-
+mm to 1.091 mm, with a mean of 0.706 mm.<br>
 <b>Nodule count.<b> In Fig. 3 (b), we illustrate the distribution of
 nodule count in one patient. We observe that approximately 68 %
 of patients have nodules less than 5 in our PN9. However, there
 are about 9 % of patients with more than 10 nodules, which may
-be difficult to detect.
-
+be difficult to detect.<br>
 <b>Class.</b> Our PN9 has a hierarchical class structure, and its detailed taxonomy is shown in Fig. 4. 
 According to the property of the pulmonary nodules, all nodules in our dataset are first divided into four upper-level classes (denoted as super-class), 
 including solid nodule (SN), part-solid nodule (PSN), ground-glass nodule (GGN), and calcific nodule (CN). 
