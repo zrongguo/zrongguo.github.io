@@ -12,7 +12,7 @@ date: 2021-03-09
 </p>
 
 <p align="center">
-  <img src="https://jiemei.xyz/files/2021_TPAMI_SANet/SANet-examples.png?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://jiemei.xyz/files/2021_TPAMI_SANet/SANet-examples.png?raw=true" alt="Photo" style="width: 450px;"/> <br>
  Figure 1. Examples of the pulmonary nodules in the PN9. 
  Each image belongs to a different class of nodules. SN, GGN, and PSN denote solid, ground-glass, and part-solid nodules, respectively. 
  The size of each nodule is labeled in the parentheses. The 1st and 3rd rows are the complete slices, while the rest two rows are zoomed-in images, respectively.
