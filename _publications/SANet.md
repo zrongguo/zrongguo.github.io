@@ -35,4 +35,63 @@ To verify the performance of SANet and the significance of PN9,
 we perform extensive experiments compared with several state-of-the-art 2D CNN-based and 3D CNN-based detection methods. 
 Promising evaluation results on PN9 prove the effectiveness of our proposed SANet.
 
+## Method
+<p align="center">
+  <img src="https://jiemei.xyz/files/2021_TPAMI_SANet/SANet-method.png?raw=true" alt="Photo" style="width: 450px;"/> <br>
+  Figure 2. Overall architecture of the proposed slice-aware network (SANet). The red dashed box represents the nodule candidate. 
+  And the CT images below are zoomed-in images of the ones above.
+</p>
+
+We propose a slice-aware network (SANet) for pulmonary nodule detection. 
+We first introduce an encoder-decoder architecture network to learn the feature of nodules, since their size is much smaller than the common objects in natural images. 
+According to doctors’ diagnosis way, we propose a slice grouped non-local module (SGNL) and add it to the encoder network. 
+SGNL is able to capture long-range dependencies among any positions and any channels of one slice group in the feature map. 
+And 3D region proposal network is introduced to generate pulmonary nodule candidates with high sensitivity, while this detection stage usually comes with many false positives. 
+Subsequently, we develop a false positive reduction module (FPR) by using the multi-scale feature maps.
+
+## PN9
+We collect and annotate a new large-scale pulmonary nodule
+dataset named PN9, which contains 8,798 thoracic CT scans and
+a total of 40,439 annotated nodules.
+
+### Dataset Properties
+<p align="center">
+  <img src="https://jiemei.xyz/files/2021_TPAMI_SANet/SANet-statistics.png?raw=true" alt="Photo" style="width: 450px;"/> <br>
+  Figure 3. Statistics of the proposed PN9 dataset. 
+  (a) Slice thickness distribution of CT scans. 
+  (b) Distribution of nodule count in one patient. (c) Percentage of CT manufacturer. <br>
+   <img src="https://jiemei.xyz/files/2021_TPAMI_SANet/SANet-class.png?raw=true" alt="Photo" style="width: 450px;"/> <br>
+   Figure 4. Statistics of class in PN9. (a)Taxonomy of the PN9 dataset. 
+   It contains four super-classes and nine sub-classes. 
+   The percentage represents the proportion of a certain class of nodules to all nodules. 
+   (b) Mutual dependencies among super-classes. (c) Mutual dependencies among sub-classes.
+</p>
+
+<b>CT Manufacturer.<b> The CT scans in PN9 are obtained by a
+series of CT manufacturers and corresponding models, as shown
+in Fig. 3 (c). PN9 includes 2,652 scans from ten different GE
+Medical Systems scanner models, 2,305 scans from eleven different Siemens scanner models, 2,224 scans from three different
+Toshiba scanner models, 800 scans from two different United
+Imaging Healthcare (UIH) scanner models, and 817 scans from
+six different Philips scanner models.
+<b>Slice Thickness.<b> Since the images of thick slice are not
+optimal for CAD analysis, we mainly collect the CT
+scans with thin-slice. As illustrated in Fig. 3 (a), slice thickness
+ranges from 0.4 mm to 2.5 mm, and most are located at 0.7, 0.8,
+1.0, and 1.25 mm. Besides, the pixel spacing ranges from 0.310
+mm to 1.091 mm, with a mean of 0.706 mm.
+<b>Nodule count.<b> In Fig. 3 (b), we illustrate the distribution of
+nodule count in one patient. We observe that approximately 68 %
+of patients have nodules less than 5 in our PN9. However, there
+are about 9 % of patients with more than 10 nodules, which may
+be difficult to detect.
+
+<b>Class.</b> Our PN9 has a hierarchical class structure, and its detailed taxonomy is shown in Fig. 4. 
+According to the property of the pulmonary nodules, all nodules in our dataset are first divided into four upper-level classes (denoted as super-class), 
+including solid nodule (SN), part-solid nodule (PSN), ground-glass nodule (GGN), and calcific nodule (CN). 
+Meanwhile, To satisfy the practical demands of doctors and hospitals, we further subdivide the super-class referring to the medical guidelines. 
+Each nodule is assigned with a subordinate class (denoted as sub-class) belonging to a certain super-class based on the nodule size. 
+For example, sub-class 0-3mm solid nodules (denoted as 0-3SN) are defined as any nodules identified to be super-class solid nodules with the most significant in-plane dimension in the range of 0-3 mm. And 9 different sub-classes are finally obtained. The statistics of nodules in each class are shown in Fig. 4 (a). 
+In Fig. 4 (b-c), we show the mutual dependencies among super-classes and sub-classes, respectively. The larger width of a link between two classes indicates a higher probability for the two classes’ nodules appearing in one patient simultaneously. For example, a patient diagnosed with ground-glass nodules is also likely to have solid nodules.
+
 [[PDF]](https://jiemei.xyz/files/2021_TPAMI_SANet/2021_TPAMI_SANet.pdf)
