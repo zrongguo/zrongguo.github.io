@@ -37,7 +37,7 @@ Promising evaluation results on PN9 prove the effectiveness of our proposed SANe
 
 ## Method
 <p align="center">
-  <img src="https://jiemei.xyz/files/2021_TPAMI_SANet/SANet-method.png?raw=true" alt="Photo" style="max-width:900px"/> <br>
+  <img src="https://jiemei.xyz/files/2021_TPAMI_SANet/SANet-method.png?raw=true" alt="Photo" style="max-width:750px"/> <br>
   Figure 2. Overall architecture of the proposed slice-aware network (SANet). The red dashed box represents the nodule candidate. 
   And the CT images below are zoomed-in images of the ones above.
 </p>
@@ -56,7 +56,7 @@ a total of 40,439 annotated nodules.
 
 ### Dataset Properties
 <p align="center">
-   <img src="https://jiemei.xyz/files/2021_TPAMI_SANet/SANet-class.png?raw=true" alt="Photo" style="max-width:900px"/> <br>
+   <img src="https://jiemei.xyz/files/2021_TPAMI_SANet/SANet-class.png?raw=true" alt="Photo" style="max-width:750px"/> <br>
    Figure 3. Statistics of class in PN9. (a)Taxonomy of the PN9 dataset. 
    It contains four super-classes and nine sub-classes. 
    The percentage represents the proportion of a certain class of nodules to all nodules. 
