@@ -71,4 +71,18 @@ Each nodule is assigned with a subordinate class (denoted as sub-class) belongin
 For example, sub-class 0-3mm solid nodules (denoted as 0-3SN) are defined as any nodules identified to be super-class solid nodules with the most significant in-plane dimension in the range of 0-3 mm. And 9 different sub-classes are finally obtained. The statistics of nodules in each class are shown in Fig. 3 (a). 
 In Fig. 3 (b-c), we show the mutual dependencies among super-classes and sub-classes, respectively. The larger width of a link between two classes indicates a higher probability for the two classes’ nodules appearing in one patient simultaneously. For example, a patient diagnosed with ground-glass nodules is also likely to have solid nodules.
 
+### Comparison with Other Pulmonary Nodule Datasets
+| Dataset | Year | Scans | Nodules | Class | Available|
+| :-------- | :------------: |:---------: |:--------------:|:---------: |:--------------:|
+| 2 | 3 | FN | TP | FN | TP | 
+
+In Table 1, we compare the PN9 with several existing pulmonary nodule datasets. 
+Compared to the widely used dataset LUNA16, PN9 contains over 10 times more CT scans and over 30 times more annotated nodules. 
+As for the class diversity, other datasets only have three categories: nodule >= 3 mm, nodule < 3 mm, and non-nodule. 
+Due to these limitations, it is difficult for most of the existing nodule datasets to apply to the practice. 
+However, our PN9 contains many CT scans and 9 classes, which will contribute to the detection and classification tasks of the pulmonary nodules, 
+allowing researchers to design more effective algorithms based on different types of nodules. 
+Besides, there are more pulmonary nodules of small size, like 0-3mm solid nodules and 0-5mm ground-glass nodules. 
+It helps identify small nodules more accurately, then the doctors can diagnose and treat patients earlier. 
+In summary, our dataset not only is larger than the previous datasets, but also has superior diversity and performance.
 [[PDF]](https://jiemei.xyz/files/2021_TPAMI_SANet/2021_TPAMI_SANet.pdf)
