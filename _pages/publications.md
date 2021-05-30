@@ -10,9 +10,9 @@ author_profile: true
 <b>Jie Mei</b>, Ming-Ming Cheng, Gang Xu, Lan-Ruo Wan, Huan Zhang. <br>
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)</i>, 2021. <br>
 [[PDF]](https://jiemei.xyz/files/2021_TPAMI_SANet/2021_TPAMI_SANet.pdf)
-[[Project]](https://mmcheng.net/sanet/)
+[[Project]](https://jiemei.xyz/publications/SANet)
 [[Code]](https://github.com/mj129/SANet)
-[[Dataset]](https://github.com/mj129/SANet)
+[[Dataset]](https://jiemei.xyz/publications/SANet)
 
 * <b>JCS: An Explainable COVID-19 Diagnosis System by Joint Classification and Segmentation</b>. <br>
 Yu-Huan Wu, Shang-Hua Gao, <b>Jie Mei</b>, Jun Xu, Deng-Ping Fan, Rong-Guo Zhang, Ming-Ming Cheng. <br>
