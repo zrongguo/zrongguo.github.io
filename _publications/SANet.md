@@ -72,9 +72,11 @@ For example, sub-class 0-3mm solid nodules (denoted as 0-3SN) are defined as any
 In Fig. 3 (b-c), we show the mutual dependencies among super-classes and sub-classes, respectively. The larger width of a link between two classes indicates a higher probability for the two classes’ nodules appearing in one patient simultaneously. For example, a patient diagnosed with ground-glass nodules is also likely to have solid nodules.
 
 ### Comparison with Other Pulmonary Nodule Datasets
-| Dataset | Year | Scans | Nodules | Class | Available|
-| :-------- | :------------: |:---------: |:--------------:|:---------: |:--------------:|
-| 2 | 3 | FN | TP | FN | TP | 
+<p align="center">
+   <img src="https://jiemei.xyz/files/2021_TPAMI_SANet/SANet-comparison.png?raw=true" alt="Photo" style="max-width:500px"/> <br>
+   TABLE 1: Comparison with the existing datasets of the pulmonary nodule. 'Scans' indicates the number of CT scans. 
+   ‘Nodules’ denotes the number of labeled nodules. ‘Class' means the class number. And 'Available’ denotes whether the dataset is available.
+</p>
 
 In Table 1, we compare the PN9 with several existing pulmonary nodule datasets. 
 Compared to the widely used dataset LUNA16, PN9 contains over 10 times more CT scans and over 30 times more annotated nodules. 
@@ -85,4 +87,5 @@ allowing researchers to design more effective algorithms based on different type
 Besides, there are more pulmonary nodules of small size, like 0-3mm solid nodules and 0-5mm ground-glass nodules. 
 It helps identify small nodules more accurately, then the doctors can diagnose and treat patients earlier. 
 In summary, our dataset not only is larger than the previous datasets, but also has superior diversity and performance.
+
 [[PDF]](https://jiemei.xyz/files/2021_TPAMI_SANet/2021_TPAMI_SANet.pdf)
