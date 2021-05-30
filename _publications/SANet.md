@@ -11,6 +11,10 @@ date: 2021-03-09
 <sup>2</sup>InferVision
 </p>
 
+<p align="center">
+  <img src="https://jiemei.xyz/files/2021_TPAMI_SANet/SANet-examples.png?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
+
 ## Abstract
 Lung cancer is the most common cause of cancer death worldwide. 
 A timely diagnosis of the pulmonary nodules makes it possible to detect lung cancer in the early stage, 
