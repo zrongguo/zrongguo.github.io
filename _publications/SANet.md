@@ -7,7 +7,7 @@ date: 2021-03-09
 ---
 <p align="center">
 <b>Jie Mei</b><sup>1</sup>, Ming-Ming Cheng<sup>1</sup>, Gang Xu<sup>1</sup>, Lan-Ruo Wan<sup>2</sup>, Huan Zhang<sup>2</sup> <br>
-<sup>1</sup>TKLNDST, CS, Nankai University
+<sup>1</sup>TKLNDST, CS, Nankai University <br>
 <sup>2</sup>InferVision
 </p>
 
