@@ -5,9 +5,10 @@ permalink: /publications/SANet
 venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)"
 date: 2021-03-09
 ---
+<p align="center">
 <b>Jie Mei</b>, Ming-Ming Cheng, Gang Xu, Lan-Ruo Wan, Huan Zhang <br>
 <sup>1</sup>TKLNDST, CS, Nankai University 　　　　　<sup>2</sup>InferVision
-
+</p>
 [[PDF]](https://jiemei.xyz/files/2021_TPAMI_SANet/2021_TPAMI_SANet.pdf)
 
 ## Abstract
