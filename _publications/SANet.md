@@ -93,14 +93,16 @@ SANet: A Slice-Aware Network for Pulmonary Nodule Detection, Jie Mei, Ming-Ming 
 [[PDF]](https://jiemei.xyz/files/2021_TPAMI_SANet/2021_TPAMI_SANet.pdf)[[Code]](https://github.com/mj129/SANet)
 
 Please contact Jie Mei (meijie AT mail.nankai.edu.cn) for the dataset. 
-We will get back to you shortly.<br>
-The email should contain the following information.
+We will get back to you shortly.
+The email should contain the following information.<br>
+<b>Note<b>: For better academic communication, a real-name system is encouraged and your email suffix must match your affiliation (e.g., hello@nankai.edu.cn).
+If not, you need to explain why.
 ```
 Name: (Tell us who you are.)
 Affiliation: (The name/url of your institution or university, etc.)
 Job Title: (E.g., Professor, Associate Professor, PhD, etc.)
-Email: (Dataset will be sent to this email. 
-Note: For better academic communication, a real-name system is encouraged and your email suffix must match your affiliation (e.g., hello@nankai.edu.cn).)
+Email: (Dataset will be sent to this email.)
+How to use: (Only for non-commercial use.)
 ```
 
 
