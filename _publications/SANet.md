@@ -89,6 +89,9 @@ It helps identify small nodules more accurately, then the doctors can diagnose a
 In summary, our dataset not only is larger than the previous datasets, but also has superior diversity and performance.
 
 ## Dataset
+SANet: A Slice-Aware Network for Pulmonary Nodule Detection, Jie Mei, Ming-Ming Cheng, Gang Xu, Lan-Ruo Wan, Huan Zhang, IEEE TPAMI, 2021. 
+[[PDF]](https://jiemei.xyz/files/2021_TPAMI_SANet/2021_TPAMI_SANet.pdf)[[Code]](https://github.com/mj129/SANet)
+
 
 ### Terms of Use
 This dataset belongs to the Media Computing Lab at Nankai University and is licensed under a [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode).
