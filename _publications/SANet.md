@@ -92,6 +92,17 @@ In summary, our dataset not only is larger than the previous datasets, but also 
 SANet: A Slice-Aware Network for Pulmonary Nodule Detection, Jie Mei, Ming-Ming Cheng, Gang Xu, Lan-Ruo Wan, Huan Zhang, IEEE TPAMI, 2021. 
 [[PDF]](https://jiemei.xyz/files/2021_TPAMI_SANet/2021_TPAMI_SANet.pdf)[[Code]](https://github.com/mj129/SANet)
 
+Please contact Jie Mei (meijie AT mail.nankai.edu.cn) for the dataset. 
+We will get back to you shortly.<br>
+The email should contain the following information.
+```
+Name: (Tell us who you are.)
+Affiliation: (The name/url of your institution or university, etc.)
+Job Title: (E.g., Professor, Associate Professor, PhD, etc.)
+Email: (Dataset will be sent to this email. 
+Note: For better academic communication, a real-name system is encouraged and your email suffix must match your affiliation (e.g., hello@nankai.edu.cn).)
+```
+
 
 ### Terms of Use
 This dataset belongs to the Media Computing Lab at Nankai University and is licensed under a [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode).
@@ -108,5 +119,3 @@ It would be high appreciated if you can cite our paper when using our dataset an
   doi={10.1109/TPAMI.2021.3065086}
 }
 ```
-
-[[PDF]](https://jiemei.xyz/files/2021_TPAMI_SANet/2021_TPAMI_SANet.pdf)
