@@ -14,7 +14,7 @@ I got the B.Sc. degree at Beijing Normal University.
 
 My research interests include Machine Learning, Computer Vision, and Remote-sensing Image Processing.
 
-Email: meijie0507 AT gmail.com
+Email: meijie AT mail.nankai.edu.cn
 
 # Education
 * 2019 -- , Ph.D in Computer Science, Nankai University.

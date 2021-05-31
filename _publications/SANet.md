@@ -88,4 +88,22 @@ Besides, there are more pulmonary nodules of small size, like 0-3mm solid nodule
 It helps identify small nodules more accurately, then the doctors can diagnose and treat patients earlier. 
 In summary, our dataset not only is larger than the previous datasets, but also has superior diversity and performance.
 
+## Dataset
+
+### Terms of Use
+This dataset belongs to the Media Computing Lab at Nankai University and is licensed under a [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+### Citation
+It would be high appreciated if you can cite our paper when using our dataset and code:
+```
+@article{21PAMI-SANet,
+  title={SANet: A Slice-Aware Network for Pulmonary Nodule Detection},
+  author={Jie Mei and Ming-Ming Cheng and Gang Xu and Lan-Ruo Wan and Huan Zhang},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  year={2021},
+  publisher={IEEE},
+  doi={10.1109/TPAMI.2021.3065086}
+}
+```
+
 [[PDF]](https://jiemei.xyz/files/2021_TPAMI_SANet/2021_TPAMI_SANet.pdf)
