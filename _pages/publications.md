@@ -6,6 +6,13 @@ author_profile: true
 ---
 (\* indicates joint first authors)
 ## 2021
+* <b>CoANet: Connectivity Attention Network for Road Extraction from Satellite Imagery</b>. <br>
+<b>Jie Mei</b>, Rou-Jing Li, Wang Gao, Ming-Ming Cheng. <br>
+<i>IEEE Transactions on Image Processing (**TIP**)</i>, 2021. <br>
+[[PDF]](https://jiemei.xyz/files/2021_TIP_CoANet/2021_TIP_CoANet.pdf)
+[[Project]]
+[[Code]]
+
 * <b>SANet: A Slice-Aware Network for Pulmonary Nodule Detection</b>. <br>
 <b>Jie Mei</b>, Ming-Ming Cheng, Gang Xu, Lan-Ruo Wan, Huan Zhang. <br>
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)</i>, 2021. <br>
