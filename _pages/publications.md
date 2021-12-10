@@ -10,8 +10,8 @@ author_profile: true
 <b>Jie Mei</b>, Rou-Jing Li, Wang Gao, Ming-Ming Cheng. <br>
 <i>IEEE Transactions on Image Processing (**TIP**)</i>, 2021. <br>
 [[PDF]](https://jiemei.xyz/files/2021_TIP_CoANet/2021_TIP_CoANet.pdf)
-[[Project]]
-[[Code]]
+[[Project]](https://jiemei.xyz/publications/CoANet)
+[[Code]](https://github.com/mj129/CoANet)
 
 * <b>SANet: A Slice-Aware Network for Pulmonary Nodule Detection</b>. <br>
 <b>Jie Mei</b>, Ming-Ming Cheng, Gang Xu, Lan-Ruo Wan, Huan Zhang. <br>
