@@ -6,7 +6,7 @@ venue: "IEEE Transactions on Image Processing (TIP)"
 date: 2021-10-07
 ---
 <p align="center">
-<b>Jie Mei</b><sup>1</sup>, Rou-Jing Li<sup>2</sup>, Wang Gao<sup>3</sup>,Ming-Ming Cheng<sup>1</sup> <br>
+<b>Jie Mei</b><sup>1</sup>, Rou-Jing Li<sup>2</sup>, Wang Gao<sup>3</sup>, Ming-Ming Cheng<sup>1</sup> <br>
 <sup>1</sup>TKLNDST, CS, Nankai University <br>
 <sup>2</sup>Beijing Normal University <br>
 <sup>3</sup> Science and Technology on Complex System Control and Intelligent Agent Cooperation Laboratory
