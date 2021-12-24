@@ -22,11 +22,17 @@ Email: meijie AT mail.nankai.edu.cn
 * 2012 -- 2016, B.Sc. in Geographic Information System, Beijing Normal University.
 
 # Major Awards & Honors
-
-
+* 2021: National Scholarship.
 * 2019: Zhou Tingru Scholarship; "Outstanding Graduate" in Beijing Normal University.
-* 2018: National Scholarship; Gold Medal of the 46th International Exhibition of Inventions of Geneva.
+* 2018: National Scholarship; Gold Medal of the 46th International Exhibition of Inventions of Geneva.
 * 2017: First-class Graduate Scholarship of Beijing Normal University; First prize in IBM Systems Power HPDA GPU Programming Marathon.
 {: style="text-align: justify;"}
+
+# Academic Services
+## Journal Reviewer:
+* IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+* IEEE Transactions on Image Processing (TIP)
+* IEEE Journal of Biomedical and Health Informatics (JBHI)
+* IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=150&d=iEfoJ2a3aSRrfkkD55uM2xvtuLrHssd-k4OtzGp8_j8"></script>
