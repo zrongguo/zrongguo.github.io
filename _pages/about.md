@@ -28,8 +28,7 @@ Email: meijie AT mail.nankai.edu.cn
 * 2017: First-class Graduate Scholarship of Beijing Normal University; First prize in IBM Systems Power HPDA GPU Programming Marathon.
 {: style="text-align: justify;"}
 
-# Academic Services
-## Journal Reviewer:
+# Academic Services (Journal Reviewer)
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 * IEEE Transactions on Image Processing (TIP)
 * IEEE Journal of Biomedical and Health Informatics (JBHI)
