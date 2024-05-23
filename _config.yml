@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "张荣国 (Rongguo Zhang)"
 title_separator          : "-"
-name                     : &name "Jie Mei"
-description              : &description "Ph.D Student, College of Computer Science, Nankai University."
+name                     : &name "Rongguo Zhang"
+description              : &description "首都师范大学交叉科学研究院研究员."
 url                      : https://zrongguo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mj129/mj129.github.io"
+repository               : "zrongguo/zrongguo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
