@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jie Mei"
+title: "Rongguo"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,14 +12,14 @@ I am currently a Ph.D student at [Media Computing Lab](https://mmcheng.net/) of 
 I received my M.Sc. degree in the Faculty of Geographical Science, Beijing Normal University, advised by Prof. [Liqiang Zhang](https://geot.bnu.edu.cn/Public/htm/news/5/194.html). 
 I got the B.Sc. degree at Beijing Normal University.
 
-My research interests include Machine Learning, Computer Vision, and Remote-sensing Image Processing.
-
-Email: meijie AT mail.nankai.edu.cn
+My research interests include Machine/Deep Learning, Computer Vision, and Medical Image Analysis.
+Email: zrongguo AT cnu.edu.cn
+Corresponding Address:105 West Third Ring Road North, Haidian District, Beijing, 100048, China.
 
 # Education
-* 2019 -- , Ph.D in Computer Science, Nankai University.
-* 2016 -- 2019, M.Sc. in Geographic Information System, Beijing Normal University.
-* 2012 -- 2016, B.Sc. in Geographic Information System, Beijing Normal University.
+* 2006.9 -- 2012.1，模式识别与智能系统专业博士，中国科学院自动化研究所。
+* 2002.9 -- 2006.7，自动控制与信息技术专业学士，北京航空航天大学
+
 
 # Major Awards & Honors
 * 2021: National Scholarship.
