@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "张荣国"
+  name             : #"张荣国"
   avatar           : "zrg.jpg"
-  bio              : "研究员，交叉科学研究院，首都师范大学"
+  bio              : #"研究员，交叉科学研究院，首都师范大学"
   location         : "北京, 中国"
   employer         :
   pubmed           :
