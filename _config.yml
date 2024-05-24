@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "张荣国 (Rongguo Zhang)"
 title_separator          : "-"
 name                     : &name "Rongguo Zhang"
-description              : &description "首都师范大学交叉科学研究院研究员"
+description              : &description "研究员,交叉科学研究院,首都师范大学"
 url                      : https://zrongguo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zrongguo/zrongguo.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "张荣国 (Rongguo Zhang)"
+  name             : "张荣国"
   avatar           : "zrg.jpg"
-  bio              : "首都师范大学交叉科学研究院研究员."
+  bio              : "研究员，交叉科学研究院，首都师范大学"
   location         : "北京, 中国"
   employer         :
   pubmed           :
