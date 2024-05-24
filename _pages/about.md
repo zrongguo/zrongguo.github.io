@@ -21,17 +21,17 @@ Corresponding Address:105 West Third Ring Road North, Haidian District, Beijing,
 * 2002.9 -- 2006.7，自动控制与信息技术专业学士，北京航空航天大学。
 
 
-# Major Awards & Honors
-* 2021: National Scholarship.
-* 2019: Zhou Tingru Scholarship; "Outstanding Graduate" in Beijing Normal University.
-* 2018: National Scholarship; Gold Medal of the 46th International Exhibition of Inventions of Geneva.
-* 2017: First-class Graduate Scholarship of Beijing Normal University; First prize in IBM Systems Power HPDA GPU Programming Marathon.
+# Major Honors
+* 《基于深度学习技术的肺癌/肺炎早诊早治的创新体系建设及推广应用》荣获2020年北京市科学技术进步奖二等奖。
+* .
+* 
 {: style="text-align: justify;"}
 
-# Academic Services (Journal Reviewer)
-* IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-* IEEE Transactions on Image Processing (TIP)
-* IEEE Journal of Biomedical and Health Informatics (JBHI)
-* IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+# Journal Reviewer
+* Journal of the American Heart Association (JAHA)
+* Artificial Intelligence In Medicine (AIIM)
+* Computers in Biology and Medicine (CIBM)
+* NeuroImage: Clinical  (NICL)
+* Frontiers in Oncology
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=150&d=iEfoJ2a3aSRrfkkD55uM2xvtuLrHssd-k4OtzGp8_j8"></script>
