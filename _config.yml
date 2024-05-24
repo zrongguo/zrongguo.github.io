@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "张荣国 (Rongguo Zhang)"
+title                    : "张荣国"
 title_separator          : "-"
 name                     : &name "Rongguo Zhang"
 description              : &description "研究员,交叉科学研究院,首都师范大学"

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Rongguo"
+title: "Rongguo Zhang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D student at [Media Computing Lab](https://mmcheng.net/) of Nankai University, my advisor is Prof. [Ming-Ming Cheng](https://mmcheng.net/cmm/). 
-I received my M.Sc. degree in the Faculty of Geographical Science, Beijing Normal University, advised by Prof. [Liqiang Zhang](https://geot.bnu.edu.cn/Public/htm/news/5/194.html). 
-I got the B.Sc. degree at Beijing Normal University.
+I am currently a Researcher at [Academy for Multidisciplinary Studies](https://ams.cnu.edu.cn/index.htm) of Capital Normal University. 
 
 My research interests include Machine/Deep Learning, Computer Vision, and Medical Image Analysis.
+
 Email: zrongguo AT cnu.edu.cn
+
 Corresponding Address:105 West Third Ring Road North, Haidian District, Beijing, 100048, China.
 
 # Education
 * 2006.9 -- 2012.1，模式识别与智能系统专业博士，中国科学院自动化研究所。
-* 2002.9 -- 2006.7，自动控制与信息技术专业学士，北京航空航天大学
+* 2002.9 -- 2006.7，自动控制与信息技术专业学士，北京航空航天大学。
 
 
 # Major Awards & Honors
