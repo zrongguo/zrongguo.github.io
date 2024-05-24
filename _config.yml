@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "张荣国 (Rongguo Zhang)"
 title_separator          : "-"
 name                     : &name "Rongguo Zhang"
-description              : &description "首都师范大学交叉科学研究院研究员."
+description              : &description "首都师范大学交叉科学研究院研究员"
 url                      : https://zrongguo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zrongguo/zrongguo.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jie Mei (梅杰)"
-  avatar           : "meijie.jpg"
-  bio              : "Ph.D Student, College of Computer Science, Nankai University."
-  location         : "Tianjin, China"
+  name             : "张荣国 (Rongguo Zhang)"
+  avatar           : "zrg.jpg"
+  bio              : "首都师范大学交叉科学研究院研究员."
+  location         : "北京, 中国"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com.hk/citations?hl=en&user=E-h9t18AAAAJ"
-  email            : "meijie@mail.nankai.edu.cn"
-  researchgate     :  "https://www.researchgate.net/profile/Jie-Mei-15" # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=AcBtALAAAAAJ&hl=zh-CN"
+  email            : "zrongguo@cnu.edu.cn"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mj129"
+  github           : "zrongguo"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-9789-4025"
+  orcid            : "https://orcid.org/0000-0001-6566-8843"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
