@@ -29,6 +29,9 @@ Email: zrongguo AT cnu.edu.cn
 
 {: style="text-align: justify;"}
 
+# 研究生招生
+欢迎有坚实的计算机、数学、英语基础和优秀编程能力的同学联系。
+
 # Journal Reviewer
 * Journal of the American Heart Association (JAHA)
 * Artificial Intelligence In Medicine (AIIM)
