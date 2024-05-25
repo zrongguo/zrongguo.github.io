@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+# 部分论文
 (\* indicates corresponding author)
 ## 2023
 * <b>Generating Chinese Radiology Reports from X-Ray Images: A Public Dataset and an X-ray-to-Reports Generation Method</b>. <br>
@@ -15,7 +16,7 @@ Wen Tang, Chenhao Pei, Pengxin Yu, Huan Zhang, Xiangde Min, Cancan Chen, Han Kan
 
 ## 2021
 * <b>JCS: An Explainable COVID-19 Diagnosis System by Joint Classification and Segmentation</b>. <br>
-Yu-Huan Wu, Shang-Hua Gao, Jie Mei, Jun Xu, Deng-Ping Fan, <b>Rong-Guo Zhang</b>, Ming-Ming Cheng. <br>
+Yu-Huan Wu, Shang-Hua Gao, Jie Mei, Jun Xu, Deng-Ping Fan, <b>Rong-Guo Zhang</b>, Ming-Ming Cheng\*. <br>
 <i>IEEE Transactions on Image Processing (**TIP**)</i>, 2021. <br>
 [[PDF]](https://zrongguo.github.io/files/2021_TIP_JCS.pdf)
 [[Code]](https://github.com/zrongguo/JCS)
