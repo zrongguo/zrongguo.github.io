@@ -11,9 +11,8 @@ redirect_from:
 I am currently a Researcher at [Academy for Multidisciplinary Studies](https://ams.cnu.edu.cn/index.htm) of Capital Normal University. 
 My research interests include Machine/Deep Learning, Computer Vision, and Medical Image Analysis.
 
-Email: zrongguo AT cnu.edu.cn
-
 Corresponding Address:105 West Third Ring Road North, Haidian District, Beijing, 100048, China.
+Email: zrongguo AT cnu.edu.cn
 
 # Education
 * 2006.9 -- 2012.1，模式识别与智能系统专业博士，中国科学院自动化研究所。
@@ -26,8 +25,8 @@ Corresponding Address:105 West Third Ring Road North, Haidian District, Beijing,
 
 # Major Honors
 * 《基于深度学习技术的肺癌/肺炎早诊早治的创新体系建设及推广应用》荣获2020年北京市科学技术进步奖二等奖。
-* .
 * 
+
 {: style="text-align: justify;"}
 
 # Journal Reviewer
