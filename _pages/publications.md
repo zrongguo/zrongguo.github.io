@@ -8,6 +8,11 @@ author_profile: true
 [谷歌学术](https://scholar.google.com/citations?user=AcBtALAAAAAJ&hl=zh-CN)累计引用1900余次，H-Index: 17 (统计截止2024.5)
 
 (\* indicates corresponding author)
+## 2024
+* <b>An Ensemble of 2.5D ResUnet Based Models for Segmentation of Kidney and Masses</b>. <br>
+Chen, C., <b>Zhang, R</b>. 
+<i> International Challenge on Kidney and Kidney Tumor Segmentation. Cham: Springer Nature Switzerland, 2023: 47-53.</i> <br>
+
 ## 2023
 * <b>Generating Chinese Radiology Reports from X-Ray Images: A Public Dataset and an X-ray-to-Reports Generation Method</b>. <br>
 Wen Tang, Chenhao Pei, Pengxin Yu, Huan Zhang, Xiangde Min, Cancan Chen, Han Kang, Weixin Xu, <b>Rongguo Zhang</b>\*. <br>
@@ -15,9 +20,14 @@ Wen Tang, Chenhao Pei, Pengxin Yu, Huan Zhang, Xiangde Min, Cancan Chen, Han Kan
 [[PDF]](https://zrongguo.github.io/files/2023_MICCAI_Generating Chinese Radiology Reports.pdf)
 [[Code]](https://github.com/zrongguo/CN-X2RG)
 
+* <b>Coronary computed tomography angiography analysis using artificial intelligence for stenosis quantification and stent segmentation: a multicenter study</b>. <br>
+Meng Q, Yu P, Yin S, Li X, Chang Y, Xu W, Wu C, Xu N, Zhang H, Wang Y, Shen H, <b>Zhang R</b>\*, Zhang Q. <br>
+<i>Quant Imaging Med Surg. 2023 Oct 1;13(10):6876-6886. </i><br>
+[[PDF]](https://zrongguo.github.io/files/2023_QIMS_Coronary.pdf)
+
 * <b>Deep Learning Algorithm Enables Cerebral Venous Thrombosis Detection With Routine Brain Magnetic Resonance Imaging</b>. <br>
 Xiaoxu Yang, Pengxin Yu, Haoyue Zhang, <b>Rongguo Zhang</b>, Yuehong Liu, Haoyuan Li, Penghui Sun, Xin Liu, Yu Wu, Xiuqin Jia, Jiangang Duan, Xunming Ji and Qi Yang\*. <br>
-<i> Stroke. 2023 May;54(5):1357-1366. </i><br>
+<i> <b>Stroke</b>. 2023 May;54(5):1357-1366. </i><br>
 [[PDF]](https://zrongguo.github.io/files/2023_Stroke_CVST.pdf)
 
 ## 2022
@@ -49,18 +59,18 @@ Yu-Huan Wu, Shang-Hua Gao, Jie Mei, Jun Xu, Deng-Ping Fan, <b>Rong-Guo Zhang</b>
 ## 2020
 * <b>Deep learning-based triage and analysis of lesion burden for COVID-19: a retrospective study with external validation.</b> <br>
 Wang M, Xia C, Huang L, Xu S, Qin C, Liu J, Cao Y, Yu P, Zhu T, Zhu H, Wu C, <b>Zhang R</b>, Chen X, Wang J, Du G, Zhang C, Wang S, Chen K, Liu Z, Xia L, Wang W. <br>
-<i>Lancet Digital Health. 2020 Oct;2(10):e506-e515.</i>
+<i><b>Lancet</b> Digital Health. 2020 Oct;2(10):e506-e515.</i>
 [[PDF]](https://zrongguo.github.io/files/2020_Lancet_COVID-19.pdf)]
 
 ## 2019
 * <b>Machine Learning for Pretest Probability of Obstructive Coronary Stenosis in Symptomatic Patients.</b> <br>
 Hou ZH, Lu B, Li ZN, An YQ, Gao Y, Yin WH, Liang S, <b>Zhang RG.</b> <br>
-<i> JACC Cardiovasc Imaging. 2019 Dec;12(12):2584-2586.</i> <br>
+<i> <b>JACC</b> Cardiovasc Imaging. 2019 Dec;12(12):2584-2586.</i> <br>
 [[PDF]](https://zrongguo.github.io/files/2019_JACC_ML.pdf)
 
 # 编委
 * <b>《中国5G移动卒中单元院前诊疗管理指南》，中华神经医学杂志2023年1月 第22卷 第1期。</b> <br>
-* <b>《肺癌CT筛查与诊治》的编写，北京：科学出版社，2022.6，ISBN 978-7-03-072466-3。</b> <br>
+* <b>《肺癌CT筛查与诊治》，北京：科学出版社，2022.6，ISBN 978-7-03-072466-3。</b> <br>
 * <b>《中国医疗人工智能发展报告（2020）》蓝皮书，社会科学文献出版社，ISBN 978-7-5201-7659-0。</b> <br>
 
 
