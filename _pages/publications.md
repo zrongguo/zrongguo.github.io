@@ -15,6 +15,12 @@ Wen Tang, Chenhao Pei, Pengxin Yu, Huan Zhang, Xiangde Min, Cancan Chen, Han Kan
 [[PDF]](https://zrongguo.github.io/files/2023_MICCAI_Generating Chinese Radiology Reports.pdf)
 [[Code]](https://github.com/zrongguo/CN-X2RG)
 
+## 2022
+* <b>Transformer Lesion Tracker</b>. <br>
+Tang, W., Kang, H., Zhang, H., Yu, P., Arnold, C.W., <b>Zhang, R.</b>\*. <br>
+<i>Medical Image Computing and Computer Assisted Intervention 2022. LNCS, vol 13436, pp.196-206. Springer, Cham(**MICCAI 2022**).</i> <br>
+[[PDF]](https://zrongguo.github.io/files/2022_MICCAI_Transformer Lesion Tracker.pdf)
+[[Code]](https://github.com/zrongguo/Transformer-Lesion-Tracker)
 
 ## 2021
 * <b>JCS: An Explainable COVID-19 Diagnosis System by Joint Classification and Segmentation</b>. <br>
