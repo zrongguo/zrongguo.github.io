@@ -34,7 +34,7 @@ Yu, P., Zhang, H., Kang, H., Tang, W., Arnold, C.W., <b>Zhang, R.</b>\*. <br>
 [[Code]](https://github.com/zrongguo/RPLHR-CT)
 
 ## 2021
-*<b>M-SEAM-NAM: Multi-instance Self-supervised Equivalent Attention Mechanism with Neighborhood Affinity Module for Double Weakly Supervised Segmentation of COVID-19.</b> <br>
+* <b>M-SEAM-NAM: Multi-instance Self-supervised Equivalent Attention Mechanism with Neighborhood Affinity Module for Double Weakly Supervised Segmentation of COVID-19.</b> <br>
 Tang W,  Kang H, Cao Ying, Yu P, Han H, <b>Zhang R</b>\* and Chen K. <br>
 <i> International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2021: 262-272.</i><br>
 [[PDF]](https://zrongguo.github.io/files/2021_MICCAI_M-SEAM-NAM.pdf)
@@ -47,9 +47,21 @@ Yu-Huan Wu, Shang-Hua Gao, Jie Mei, Jun Xu, Deng-Ping Fan, <b>Rong-Guo Zhang</b>
 [[Code]](https://github.com/zrongguo/JCS)
 
 ## 2020
+* <b>Deep learning-based triage and analysis of lesion burden for COVID-19: a retrospective study with external validation.</b> <br>
+Wang M, Xia C, Huang L, Xu S, Qin C, Liu J, Cao Y, Yu P, Zhu T, Zhu H, Wu C, <b>Zhang R</b>, Chen X, Wang J, Du G, Zhang C, Wang S, Chen K, Liu Z, Xia L, Wang W. <br>
+<i>Lancet Digital Health. 2020 Oct;2(10):e506-e515.</i>
+[[PDF]](https://zrongguo.github.io/files/2020_Lancet_COVID-19.pdf)]
 
 ## 2019
+* <b>Machine Learning for Pretest Probability of Obstructive Coronary Stenosis in Symptomatic Patients.</b> <br>
+Hou ZH, Lu B, Li ZN, An YQ, Gao Y, Yin WH, Liang S, <b>Zhang RG.</b> <br>
+<i> JACC Cardiovasc Imaging. 2019 Dec;12(12):2584-2586.</i> <br>
+[[PDF]](https://zrongguo.github.io/files/2019_JACC_ML.pdf)
 
-## 2018
+# 编委
+* <b>《中国5G移动卒中单元院前诊疗管理指南》，中华神经医学杂志2023年1月 第22卷 第1期。</b> <br>
+* <b>《肺癌CT筛查与诊治》的编写，北京：科学出版社，2022.6，ISBN 978-7-03-072466-3。</b> <br>
+* <b>《中国医疗人工智能发展报告（2020）》蓝皮书，社会科学文献出版社，ISBN 978-7-5201-7659-0。</b> <br>
+
 
 
