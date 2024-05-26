@@ -15,6 +15,10 @@ Wen Tang, Chenhao Pei, Pengxin Yu, Huan Zhang, Xiangde Min, Cancan Chen, Han Kan
 [[PDF]](https://zrongguo.github.io/files/2023_MICCAI_Generating Chinese Radiology Reports.pdf)
 [[Code]](https://github.com/zrongguo/CN-X2RG)
 
+* <b>Deep Learning Algorithm Enables Cerebral Venous Thrombosis Detection With Routine Brain Magnetic Resonance Imaging</b>. <br>
+Xiaoxu Yang, Pengxin Yu, Haoyue Zhang, <b>Rongguo Zhang</b>, Yuehong Liu, Haoyuan Li, Penghui Sun, Xin Liu, Yu Wu, Xiuqin Jia, Jiangang Duan, Xunming Ji and Qi Yang\*. <br>
+[[PDF]](https://zrongguo.github.io/files/2023_Stroke_CVST.pdf)]
+
 ## 2022
 * <b>Transformer Lesion Tracker</b>. <br>
 Tang, W., Kang, H., Zhang, H., Yu, P., Arnold, C.W., <b>Zhang, R.</b>\*. <br>
