@@ -17,6 +17,7 @@ Wen Tang, Chenhao Pei, Pengxin Yu, Huan Zhang, Xiangde Min, Cancan Chen, Han Kan
 
 * <b>Deep Learning Algorithm Enables Cerebral Venous Thrombosis Detection With Routine Brain Magnetic Resonance Imaging</b>. <br>
 Xiaoxu Yang, Pengxin Yu, Haoyue Zhang, <b>Rongguo Zhang</b>, Yuehong Liu, Haoyuan Li, Penghui Sun, Xin Liu, Yu Wu, Xiuqin Jia, Jiangang Duan, Xunming Ji and Qi Yang\*. <br>
+<i> Stroke. 2023 May;54(5):1357-1366. </i><br>
 [[PDF]](https://zrongguo.github.io/files/2023_Stroke_CVST.pdf)]
 
 ## 2022
