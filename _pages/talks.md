@@ -4,19 +4,20 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
-
+## 2024
+* 大模型技术的发展现状及应用前景，首都师范大学交叉科学研究院应用数学与教学创新联合研讨会，北京怀柔，2024.4.12。
 ## 2023
-* <b>Generating Chinese Radiology Reports from X-Ray Images: A Public Dataset and an X-ray-to-Reports Generation Method</b>. <br>
-Wen Tang, Chenhao Pei, Pengxin Yu, Huan Zhang, Xiangde Min, Cancan Chen, Han Kang, Weixin Xu, <b>Rongguo Zhang</b>\*. 
-
+* 智能分割技术在医学影像中的应用研究，AI医学影像新进展研讨会，大连，2023.5.27。
 
 ## 2021
-
+* 人工智能及其在肺血管疾病中的应用，中华医学会第十三届全国肺栓塞与肺血管疾病学术会议，2021.10.15。
 
 ## 2020
+* AI在肺部影像领域的应用进展，第三届京津智慧医疗创新论坛，天津，2020-09-28。
+* 肺炎智能筛查及疫情监测系统，2020中国人工智能大会之《智能防疫专题论坛》，南京，2020-08-29。
 
 ## 2019
+* 医疗AI在心血管方向的科研探索, 中国心脏大会（CHC）2019, 深圳, 2019-11-1。
 
 ## 2018
-
-
+* 医学影像人工智能的科研实践，中国医学人工智能大会（CMAI）2018，北京，2018-09-22。
