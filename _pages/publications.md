@@ -37,7 +37,7 @@ Yu, P., Zhang, H., Kang, H., Tang, W., Arnold, C.W., <b>Zhang, R.</b>\*. <br>
 *<b>M-SEAM-NAM: Multi-instance Self-supervised Equivalent Attention Mechanism with Neighborhood Affinity Module for Double Weakly Supervised Segmentation of COVID-19.</b> <br>
 Tang W,  Kang H, Cao Ying, Yu P, Han H, <b>Zhang R</b>\* and Chen K. <br>
 <i> International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2021: 262-272.</i><br>
-[[PDF]](https://zrongguo.github.io/files/2021_MICCAI_ M-SEAM-NAM.pdf)
+[[PDF]](https://zrongguo.github.io/files/2021_MICCAI_M-SEAM-NAM.pdf)
 [[Code]](https://github.com/zrongguo/M-SEAM-NAM)
 
 * <b>JCS: An Explainable COVID-19 Diagnosis System by Joint Classification and Segmentation</b>. <br>
