@@ -45,9 +45,10 @@ Email: zrongguo@cnu.edu.cn
 
 
 <style>
-  #clstr_globe {
+  .clustrmaps-widget {
     width: 100px; /* 修改为你想要的宽度 */
     height: 100px; /* 修改为你想要的高度 */
   }
 </style>
+
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Kmga2ir6RxbCwl1BwfYHXOdgVO_YSgc6M9WAUDluSOM"></script>
