@@ -46,8 +46,8 @@ Email: zrongguo@cnu.edu.cn
 
 <style>
   .clustrmaps-widget {
-    width: 100px; /* 修改为你想要的宽度 */
-    height: 100px; /* 修改为你想要的高度 */
+    width: 100px !important; /* 修改为你想要的宽度 */
+    height: 100px !important; /* 修改为你想要的高度 */
   }
 </style>
 
