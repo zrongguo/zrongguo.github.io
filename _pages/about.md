@@ -27,7 +27,7 @@ Email: zrongguo@cnu.edu.cn
 * 《基于深度学习技术的肺癌/肺炎早诊早治的创新体系建设及推广应用》获2020年北京市科学技术进步奖二等奖。
 * 
 
-{: style="text-align: justify;"}
+
 
 # 研究生招生
 欢迎有坚实的计算机、数学、英语基础和优秀编程能力的同学联系。
@@ -42,4 +42,6 @@ Email: zrongguo@cnu.edu.cn
 # Academic Services
 * 中国生物医学工程学会医学人工智能分会、医学影像工程与技术分会的青年委员
 * 九三学社北京市委医药卫生专委会委员
+
+{: style="text-align: justify;"}
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Kmga2ir6RxbCwl1BwfYHXOdgVO_YSgc6M9WAUDluSOM"></script>
