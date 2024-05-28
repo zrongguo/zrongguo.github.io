@@ -44,4 +44,4 @@ Email: zrongguo@cnu.edu.cn
 * 中国生物医学工程学会医学人工智能分会、医学影像工程与技术分会的青年委员
 * 九三学社北京市委医药卫生专委会委员
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=150&d=Kmga2ir6RxbCwl1BwfYHXOdgVO_YSgc6M9WAUDluSOM"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=200&d=Kmga2ir6RxbCwl1BwfYHXOdgVO_YSgc6M9WAUDluSOM"></script>
