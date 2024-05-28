@@ -38,17 +38,10 @@ Email: zrongguo@cnu.edu.cn
 * Computers in Biology and Medicine (CIBM)
 * NeuroImage: Clinical  (NICL)
 * Frontiers in Oncology
+{: style="text-align: justify;"}
 
 # Academic Services
 * 中国生物医学工程学会医学人工智能分会、医学影像工程与技术分会的青年委员
 * 九三学社北京市委医药卫生专委会委员
 
-
-<style>
-  .clustrmaps-widget {
-    width: 100px !important; /* 修改为你想要的宽度 */
-    height: 100px !important; /* 修改为你想要的高度 */
-  }
-</style>
-
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Kmga2ir6RxbCwl1BwfYHXOdgVO_YSgc6M9WAUDluSOM"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=150&d=Kmga2ir6RxbCwl1BwfYHXOdgVO_YSgc6M9WAUDluSOM"></script>
