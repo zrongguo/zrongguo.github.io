@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Researcher at [Academy for Multidisciplinary Studies](https://ams.cnu.edu.cn/index.htm) of Capital Normal University. 
-My research interests include Machine/Deep Learning, Computer Vision, and Medical Image Analysis.
+I am currently a Researcher at [Academy for Multidisciplinary Studies](https://ams.cnu.edu.cn/index.htm) , Beijing National Center for Applied Mathematics, Capital Normal University. 
+My research interests include Machine/Deep Learning, Computer Vision, Medical Image Analysis, AI4Med, and AI4Edu.
 
 Corresponding Address:105 West Third Ring Road North, Haidian District, Beijing, 100048, China.
 Email: zrongguo@cnu.edu.cn
