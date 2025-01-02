@@ -10,6 +10,11 @@ author_profile: true
 
 (\* indicates corresponding author)
 ## 2024
+* <b>An Efficient Cross-Modal Segmentation Method for Vestibular Schwannoma and Cochlea on MRI Images</b>. <br>
+Cancan Chen, Dawei Wang, <b>Rongguo Zhang</b>\*. <br>
+<i>In: Baid, U., et al. Brain Tumor Segmentation, and Cross-Modality Domain Adaptation for Medical Image Segmentation. crossMoDA BraTS 2023. Lecture Notes in Computer Science, vol 14669, 355-363. Springer, Cham..</i> <br>
+[[PDF]](https://zrongguo.github.io/files/2024_MICCAI_CrossMoDA.pdf)
+[[Code]](https://github.com/zrongguo/crossMoDA)
 * <b>Construction and Validation of a General Medical Image Dataset for Pretraining</b>. <br>
 <b>Rongguo Zhang</b>\*, Chenhao Pei, Ji Shi, Shaokang Wang. 
 <i> J Digit Imaging. Inform. med. (2024). https://doi.org/10.1007/s10278-024-01226-3 </i> <br>
