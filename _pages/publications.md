@@ -11,7 +11,7 @@ author_profile: true
 (\* indicates corresponding author)
 ## 2025
 * <b>Collaborative artificial intelligence and clinical evaluation of interstitial lung diseases: a call for interdisciplinary partnerships</b>. <br>
-Wang, H., <b>Zhang, R.</b>, Guo, X., Kang, H., Liu, M., Costabel, U., Wang, C., & Dai, H. 
+Wang, H., <b>Zhang, R.</b>, Guo, X., Kang, H., Liu, M., Costabel, U., Wang, C., & Dai, H. <br> 
 <i> Science bulletin, 70(4),2025:437–440. https://doi.org/10.1016/j.scib.2024.12.035</i> <br>
 [[PDF]](https://zrongguo.github.io/files/2025-Collaborative-ScienceBulletin.pdf)
 
