@@ -13,7 +13,7 @@ author_profile: true
 * <b>Collaborative artificial intelligence and clinical evaluation of interstitial lung diseases: a call for interdisciplinary partnerships</b>. <br>
 Wang, H., <b>Zhang, R.</b>, Guo, X., Kang, H., Liu, M., Costabel, U., Wang, C., & Dai, H. 
 <i> Science bulletin, 70(4),2025:437–440. https://doi.org/10.1016/j.scib.2024.12.035</i> <br>
-[[PDF]](https://zrongguo.github.io/files/2025-Collaborative-science Bulletin.pdf)
+[[PDF]](https://zrongguo.github.io/files/2025-Collaborative-ScienceBulletin.pdf)
 
 ## 2024
 * <b>An Efficient Cross-Modal Segmentation Method for Vestibular Schwannoma and Cochlea on MRI Images</b>. <br>
@@ -22,7 +22,7 @@ Cancan Chen, Dawei Wang, <b>Rongguo Zhang</b>\*. <br>
 [[PDF]](https://zrongguo.github.io/files/2024_MICCAI_CrossMoDA.pdf)
 [[Code]](https://github.com/zrongguo/crossMoDA)
 * <b>Construction and Validation of a General Medical Image Dataset for Pretraining</b>. <br>
-<b>Rongguo Zhang</b>\*, Chenhao Pei, Ji Shi, Shaokang Wang. 
+<b>Rongguo Zhang</b>\*, Chenhao Pei, Ji Shi, Shaokang Wang. <br>
 <i> J Digit Imaging. Inform. med. (2024). https://doi.org/10.1007/s10278-024-01226-3 </i> <br>
 [[PDF]](https://zrongguo.github.io/files/2024_JIIM_Pretrain.pdf)
 * <b>An Ensemble of 2.5D ResUnet Based Models for Segmentation of Kidney and Masses</b>. <br>
