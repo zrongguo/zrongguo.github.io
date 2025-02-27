@@ -12,7 +12,7 @@ author_profile: true
 ## 2025
 * <b>Collaborative artificial intelligence and clinical evaluation of interstitial lung diseases: a call for interdisciplinary partnerships</b>. <br>
 Wang, H., <b>Zhang, R.</b>, Guo, X., Kang, H., Liu, M., Costabel, U., Wang, C., & Dai, H. <br> 
-<i> Science bulletin, 70(4),2025:437–440. https://doi.org/10.1016/j.scib.2024.12.035</i> <br>
+<i> <b>Science bulletin</b>, 70(4),2025:437–440. https://doi.org/10.1016/j.scib.2024.12.035</i> <br>
 [[PDF]](https://zrongguo.github.io/files/2025-Collaborative-ScienceBulletin.pdf)
 
 ## 2024
@@ -76,13 +76,13 @@ Yu-Huan Wu, Shang-Hua Gao, Jie Mei, Jun Xu, Deng-Ping Fan, <b>Rong-Guo Zhang</b>
 ## 2020
 * <b>Deep learning-based triage and analysis of lesion burden for COVID-19: a retrospective study with external validation.</b> <br>
 Wang M, Xia C, Huang L, Xu S, Qin C, Liu J, Cao Y, Yu P, Zhu T, Zhu H, Wu C, <b>Zhang R</b>, Chen X, Wang J, Du G, Zhang C, Wang S, Chen K, Liu Z, Xia L, Wang W. <br>
-<i><b>Lancet</b> Digital Health. 2020 Oct;2(10):e506-e515.</i>
+<i><b>Lancet Digital Health</b>. 2020 Oct;2(10):e506-e515.</i>
 [[PDF]](https://zrongguo.github.io/files/2020_Lancet_COVID-19.pdf)]
 
 ## 2019
 * <b>Machine Learning for Pretest Probability of Obstructive Coronary Stenosis in Symptomatic Patients.</b> <br>
 Hou ZH, Lu B, Li ZN, An YQ, Gao Y, Yin WH, Liang S, <b>Zhang RG.</b> <br>
-<i> <b>JACC</b> Cardiovasc Imaging. 2019 Dec;12(12):2584-2586.</i> <br>
+<i> <b>JACC Cardiovasc Imaging</b>. 2019 Dec;12(12):2584-2586.</i> <br>
 [[PDF]](https://zrongguo.github.io/files/2019_JACC_ML.pdf)
 
 # 编委
