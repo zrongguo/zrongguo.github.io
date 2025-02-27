@@ -9,6 +9,12 @@ author_profile: true
 <img src="../images/xueshu.png" alt="Alt Text" width="100" height="100">
 
 (\* indicates corresponding author)
+## 2025
+* <b>Collaborative artificial intelligence and clinical evaluation of interstitial lung diseases: a call for interdisciplinary partnerships</b>. <br>
+Wang, H., <b>Zhang, R.</b>\*, Guo, X., Kang, H., Liu, M., Costabel, U., Wang, C., & Dai, H. 
+<i> Science bulletin, 70(4),2025:437–440. https://doi.org/10.1016/j.scib.2024.12.035</i> <br>
+[[PDF]](https://zrongguo.github.io/files/2025-Collaborative AI and clinical-science Bulletin.pdf)
+
 ## 2024
 * <b>An Efficient Cross-Modal Segmentation Method for Vestibular Schwannoma and Cochlea on MRI Images</b>. <br>
 Cancan Chen, Dawei Wang, <b>Rongguo Zhang</b>\*. <br>
@@ -19,7 +25,6 @@ Cancan Chen, Dawei Wang, <b>Rongguo Zhang</b>\*. <br>
 <b>Rongguo Zhang</b>\*, Chenhao Pei, Ji Shi, Shaokang Wang. 
 <i> J Digit Imaging. Inform. med. (2024). https://doi.org/10.1007/s10278-024-01226-3 </i> <br>
 [[PDF]](https://zrongguo.github.io/files/2024_JIIM_Pretrain.pdf)
-
 * <b>An Ensemble of 2.5D ResUnet Based Models for Segmentation of Kidney and Masses</b>. <br>
 Chen, C., <b>Zhang, R</b>\*. 
 <i> International Challenge on Kidney and Kidney Tumor Segmentation. Cham: Springer Nature Switzerland, 2023: 47-53.</i> <br>
