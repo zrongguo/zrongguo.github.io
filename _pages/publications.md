@@ -24,7 +24,7 @@ Cancan Chen, Dawei Wang, <b>Rongguo Zhang</b>\*. <br>
 * <b>Construction and Validation of a General Medical Image Dataset for Pretraining</b>. <br>
 <b>Rongguo Zhang</b>\*, Chenhao Pei, Ji Shi, Shaokang Wang. <br>
 <i> J Digit Imaging. Inform. med. (2024). https://doi.org/10.1007/s10278-024-01226-3 </i> <br>
-[[PDF]](https://zrongguo.github.io/files/2024_JIIM_Pretrain.pdf)
+[[PDF]](https://zrongguo.github.io/files/2025_JIIM_Pretrain.pdf)
 * <b>An Ensemble of 2.5D ResUnet Based Models for Segmentation of Kidney and Masses</b>. <br>
 Chen, C., <b>Zhang, R</b>\*. <br>
 <i> International Challenge on Kidney and Kidney Tumor Segmentation. Cham: Springer Nature Switzerland, 2023: 47-53.</i> <br>
