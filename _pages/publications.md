@@ -23,7 +23,7 @@ Cancan Chen, Dawei Wang, <b>Rongguo Zhang</b>\*. <br>
 [[Code]](https://github.com/zrongguo/crossMoDA)
 * <b>Construction and Validation of a General Medical Image Dataset for Pretraining</b>. <br>
 <b>Rongguo Zhang</b>\*, Chenhao Pei, Ji Shi, Shaokang Wang. <br>
-<i> J Digit Imaging. Inform. med. (2024). https://doi.org/10.1007/s10278-024-01226-3 </i> <br>
+<i> Journal of Imaging Informatics in Medicine (2025) 38:1051–1061. https://doi.org/10.1007/s10278-024-01226-3 </i> <br>
 [[PDF]](https://zrongguo.github.io/files/2025_JIIM_Pretrain.pdf)
 * <b>An Ensemble of 2.5D ResUnet Based Models for Segmentation of Kidney and Masses</b>. <br>
 Chen, C., <b>Zhang, R</b>\*. <br>
