@@ -14,6 +14,10 @@ author_profile: true
 Wang, H., <b>Zhang, R.</b>, Guo, X., Kang, H., Liu, M., Costabel, U., Wang, C., & Dai, H.\* <br> 
 <i> <b>Science bulletin</b>, 70(4),2025:437–440. https://doi.org/10.1016/j.scib.2024.12.035</i> <br>
 [[PDF]](https://zrongguo.github.io/files/2025-Collaborative-ScienceBulletin.pdf)
+* <b>Construction and Validation of a General Medical Image Dataset for Pretraining</b>. <br>
+<b>Rongguo Zhang</b>\*, Chenhao Pei, Ji Shi, Shaokang Wang. <br>
+<i> Journal of Imaging Informatics in Medicine (2025) 38:1051–1061. https://doi.org/10.1007/s10278-024-01226-3 </i> <br>
+[[PDF]](https://zrongguo.github.io/files/2025_JIIM_Pretrain.pdf)
 
 ## 2024
 * <b>An Efficient Cross-Modal Segmentation Method for Vestibular Schwannoma and Cochlea on MRI Images</b>. <br>
@@ -21,10 +25,7 @@ Cancan Chen, Dawei Wang, <b>Rongguo Zhang</b>\*. <br>
 <i>In: Baid, U., et al. Brain Tumor Segmentation, and Cross-Modality Domain Adaptation for Medical Image Segmentation. crossMoDA BraTS 2023. Lecture Notes in Computer Science, vol 14669, 355-363. Springer, Cham.</i> <br>
 [[PDF]](https://zrongguo.github.io/files/2024_MICCAI_CrossMoDA.pdf)
 [[Code]](https://github.com/zrongguo/crossMoDA)
-* <b>Construction and Validation of a General Medical Image Dataset for Pretraining</b>. <br>
-<b>Rongguo Zhang</b>\*, Chenhao Pei, Ji Shi, Shaokang Wang. <br>
-<i> Journal of Imaging Informatics in Medicine (2025) 38:1051–1061. https://doi.org/10.1007/s10278-024-01226-3 </i> <br>
-[[PDF]](https://zrongguo.github.io/files/2025_JIIM_Pretrain.pdf)
+
 * <b>An Ensemble of 2.5D ResUnet Based Models for Segmentation of Kidney and Masses</b>. <br>
 Chen, C., <b>Zhang, R</b>\*. <br>
 <i> International Challenge on Kidney and Kidney Tumor Segmentation. Cham: Springer Nature Switzerland, 2023: 47-53.</i> <br>
