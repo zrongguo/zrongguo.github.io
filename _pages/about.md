@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 [首都师范大学交叉科学研究院](https://ams.cnu.edu.cn/index.htm) 、北京国家应用数学中心 研究员. 
+
 研究方向： Medical Image Analysis, Machine/Deep Learning, Computer Vision, AI4Med, and AI4Edu.
 
 Email: zrongguo@cnu.edu.cn
