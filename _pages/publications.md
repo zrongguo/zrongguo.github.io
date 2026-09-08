@@ -8,7 +8,7 @@ author_profile: true
 [谷歌学术主页链接](https://scholar.google.com/citations?user=AcBtALAAAAAJ&hl=zh-CN)
 <img src="../images/xueshu.png" alt="Alt Text" width="100" height="100">
 
-(\* indicates corresponding author)
+
 ## 2025
 * <b>Collaborative artificial intelligence and clinical evaluation of interstitial lung diseases: a call for interdisciplinary partnerships</b>. <br>
 Wang, H., <b>Zhang, R.</b>, Guo, X., Kang, H., Liu, M., Costabel, U., Wang, C., & Dai, H.\* <br> 
