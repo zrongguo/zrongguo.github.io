@@ -24,14 +24,15 @@ Email: zrongguo@cnu.edu.cn
 * 2012.02 -- 2016.04 北京搜狗科技等公司算法研究员
 
 # Major Honors
-*  《肺栓塞CT影像辅助分诊与评估软件》（项目编号：2024HAI290）荣获第二届全国数字健康创新应用大赛医学人工智能主题赛数字影像赛道特等奖
+*  <肺栓塞影像辅助诊断技术与智能评估系统的研发及临床应用> 获2025年中国医院协会医院科技研发创新奖
+*  《肺栓塞CT影像辅助分诊与评估软件》获第二届全国数字健康创新应用大赛医学人工智能主题赛数字影像赛道特等奖
 * 《基于深度学习技术的肺癌/肺炎早诊早治的创新体系建设及推广应用》获2020年北京市科学技术进步奖二等奖。
   
 
 
 
 # 研究生招生
-欢迎有坚实的计算机、数学、英语基础和优秀编程能力的同学联系。
+欢迎具有AI项目经历及编程经验的同学邮件联系。
 
 # Journal Reviewer
 * Journal of the American Heart Association (JAHA)
@@ -43,6 +44,6 @@ Email: zrongguo@cnu.edu.cn
 
 # Academic Services
 * 中国生物医学工程学会医学人工智能分会、医学影像工程与技术分会的青年委员
-* 九三学社北京市委医药卫生专委会委员
+* 九三学社北京市委医药卫生专委会委员、数字经济与人工智能专委会委员
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=200&d=Kmga2ir6RxbCwl1BwfYHXOdgVO_YSgc6M9WAUDluSOM"></script>
