@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[谷歌学术](https://scholar.google.com/citations?user=AcBtALAAAAAJ&hl=zh-CN)累计引用2200余次，H-Index: 19 (统计截止2024.12)
+[谷歌学术主页链接](https://scholar.google.com/citations?user=AcBtALAAAAAJ&hl=zh-CN)
 <img src="../images/xueshu.png" alt="Alt Text" width="100" height="100">
 
 (\* indicates corresponding author)
