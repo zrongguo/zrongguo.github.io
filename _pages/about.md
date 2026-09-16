@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[首都师范大学交叉科学研究院](https://ams.cnu.edu.cn/index.htm) 、北京国家应用数学中心 研究员. 
+[首都师范大学交叉科学研究院](https://ams.cnu.edu.cn/index.htm) 、[北京国家应用数学中心](https://bjncam.cnu.edu.cn/index.htm) 研究员. 
 
 研究方向： Medical Image Analysis, Machine/Deep Learning, Computer Vision, AI4Med.
 
